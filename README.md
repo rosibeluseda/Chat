@@ -5,6 +5,16 @@ A basic chat application built with Java that leverages network sockets to enabl
      <img src="https://github.com/rosibeluseda/Chat/assets/145386489/4c81e5ba-aa38-483d-82ab-8986be31c8df" alt="" width="400" > 
 </p>
 
+Our team members:
+- Rosibel Useda - Programmer
+- Julian Silva - Programmer
+- Valentina Arias - Programmer
+
+# My Contributions
+- Network and chat functionality programming.
+- Brainstorming functionality ideas.
+- Testing.
+
 # Connection between the client and the server
 Communication between the server and clients is established using sockets in Java. This allows for real-time data exchange and ensures a robust and reliable connection. The server listens for incoming connections, while clients initiate the communication. Once connected, they can send and receive messages, facilitating seamless interaction.
 ```java
